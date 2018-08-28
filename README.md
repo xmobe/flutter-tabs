@@ -43,7 +43,7 @@ appBar: AppBar(
 New with Flutter?
 ```bash
 git clone https://github.com/xmobe-com/flutter-tabs
-cd flutter-sidemenu
+cd flutter-tabs
 flutter packages get
 flutter run
 ```
